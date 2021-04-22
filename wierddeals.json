@@ -1,0 +1,32 @@
+[
+        {
+            "productTitle" : "Nothing",
+            "productDescription" : "What do you get for the person who has everything? Nothing—literally. But unlike traditional nothing, this one will cost you almost $7.",
+            "productImage": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/nothing.jpg",
+            "productPrice" : "$6.99"
+        },
+        {   
+            "productTitle": "Cocktail Blood Bags",
+            "productDescription": "A perfect way to celebrate a nursing school graduation or a newfound interest in vampirism, these blood bags meant for cocktails are sure to liven up every party.",
+            "productImage": "https://i1.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/cocktail-blood-bags.jpg",
+            "productPrice": "$9.99"
+        },
+        {
+            "productTitle": "A Pigeon Mask",
+            "productDescription": "You can finally roam the neighborhood in peace disguised in this lifelike pigeon mask. Hey, you might even get thrown a couple bread crumbs from sympathetic passersby!",
+            "productImage": "https://i1.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/41V-M6P2y2L.jpg",
+            "productPrice": "$24.98"
+        },
+        {
+            "productTitle": "A wine rack bra",
+            "productDescription": "Drinks at bars and clubs can be downright expensive, but not for the owners of the WineRack, a sports bra that holds a full bottle of wine in it.",
+            "productImage": "https://i1.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/wine-rack-bra.jpg",
+            "productPrice": "$29.99"
+        },
+        {
+            "productTitle": "An inflatable Pool Bull",
+            "productDescription": "When you want to turn your pool party up to 11, try this inflatable bull on for size and see if you can last eight seconds.",
+            "productImage": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/inflatable-pool-bull.jpeg",
+            "productPrice": "$34.50"
+        }
+]

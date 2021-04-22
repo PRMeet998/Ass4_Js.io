@@ -1,0 +1,25 @@
+h1 {
+	text-align: center;
+	color: #b380ff;
+}
+
+body, html {
+	background-color: #ecc6d9;
+}
+
+#products {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+/* div tag with id map */
+#map {
+  height: 100%;
+}
+
+/* BODY and HTML tag */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
